@@ -1,0 +1,6 @@
+2026-03-29 14:53:37,857 [INFO] csv_to_sql – === Démarrage csv_to_sql.py ===
+2026-03-29 14:53:37,857 [INFO] csv_to_sql – Input: source/olist_orders_dataset.csv | Output: source/orders.db
+2026-03-29 14:53:37,976 [INFO] csv_to_sql – CSV chargé : 99441 lignes
+2026-03-29 14:53:38,226 [INFO] csv_to_sql – Après nettoyage : 99441 lignes (rejetées : 0)
+2026-03-29 14:53:38,409 [INFO] csv_to_sql – SQLite créée : 99441 lignes dans orders
+2026-03-29 14:53:38,410 [INFO] csv_to_sql – === csv_to_sql.py terminé avec succès ===
